@@ -2,7 +2,7 @@
   "name": "lokka-transport-http",
   "version": "1.6.2",
   "description": "Isomorphic HTTP Transport for Lokka",
-  "main": "lib/index.js",
+  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/kadirahq/lokka-transport-http.git"
